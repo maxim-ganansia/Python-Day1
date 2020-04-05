@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a601603e-0bce-4ec4-876a-78a39837ce46" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex5-Pyramid.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex5-Pyramid.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,9 +95,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-ExDay1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Ex5-Pyramid" />
+        <item itemvalue="Python.Test" />
         <item itemvalue="Python.Ex4" />
         <item itemvalue="Python.Ex3-Even" />
       </list>
@@ -116,25 +139,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1417" height="212" key="GridCell.Tab.0.bottom" timestamp="1586093993786">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state width="1417" height="235" key="GridCell.Tab.0.bottom" timestamp="1586101600508">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1417" height="212" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1586093993786" />
+    <state width="1417" height="235" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586101600508" />
+    <state width="1417" height="235" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1586099188896" />
+    <state width="1417" height="235" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1586097179815" />
+    <state width="1417" height="235" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1586096955847" />
     <state width="1417" height="212" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1586091591356" />
-    <state width="1417" height="212" key="GridCell.Tab.0.center" timestamp="1586093993785">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state width="1417" height="235" key="GridCell.Tab.0.center" timestamp="1586101600506">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1417" height="212" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1586093993785" />
+    <state width="1417" height="235" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586101600506" />
+    <state width="1417" height="235" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1586099188895" />
+    <state width="1417" height="235" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1586097179814" />
+    <state width="1417" height="235" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1586096955846" />
     <state width="1417" height="212" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1586091591355" />
-    <state width="1417" height="212" key="GridCell.Tab.0.left" timestamp="1586093993785">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state width="1417" height="235" key="GridCell.Tab.0.left" timestamp="1586101600505">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1417" height="212" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1586093993785" />
+    <state width="1417" height="235" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586101600505" />
+    <state width="1417" height="235" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1586099188894" />
+    <state width="1417" height="235" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1586097179813" />
+    <state width="1417" height="235" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1586096955846" />
     <state width="1417" height="212" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1586091591355" />
-    <state width="1417" height="212" key="GridCell.Tab.0.right" timestamp="1586093993786">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state width="1417" height="235" key="GridCell.Tab.0.right" timestamp="1586101600507">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1417" height="212" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1586093993786" />
+    <state width="1417" height="235" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586101600507" />
+    <state width="1417" height="235" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1586099188895" />
+    <state width="1417" height="235" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1586097179814" />
+    <state width="1417" height="235" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1586096955847" />
     <state width="1417" height="212" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1586091591356" />
   </component>
 </project>
